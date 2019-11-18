@@ -2,4 +2,4 @@
 # Sample Python program
 ###################
 
-pritn ("THIS IS SAMPLE PYTHON PROGRAM")
+print ("THIS IS SAMPLE PYTHON PROGRAM")
